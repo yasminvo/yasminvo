@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Yasmin 👋
 
-<!--
-**yasminvo/yasminvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Undergraduate in Computer Science @ UFSCar  
+🎓 Data Engineer Intern @ Bain & Company
 
-Here are some ideas to get you started:
+📊 Passionate about Data Engineering, Pipelines & Cloud  
+🧠 Interests: Data Engineering | Machine Learning | Image Processing  
+💡 Always exploring ways to turn data into insights  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tools & Technologies I use
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+---
